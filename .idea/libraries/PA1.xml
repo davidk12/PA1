@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PA1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gamecontroller-gui-faster.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gamecontroller-gui-slower.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
